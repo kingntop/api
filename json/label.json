@@ -1,0 +1,93 @@
+{
+    "code": "R001",
+    "message": "success",
+    "items": [
+        {
+            "grade": "중량B"
+        },
+        {
+            "grade": "미정"
+        },
+        {
+            "grade": "경량A"
+        },
+        {
+            "grade": "경량BL"
+        },
+        {
+            "grade": "생철L"
+        },
+        {
+            "grade": "중량AL"
+        },
+        {
+            "grade": "중량BL"
+        },
+        {
+            "grade": "경량AL"
+        },
+        {
+            "grade": "중량A"
+        },
+        {
+            "grade": "경량B"
+        },
+        {
+            "grade": "생철A"
+        },
+        {
+            "grade": "생철B"
+        },
+        {
+            "grade": "선반A"
+        },
+        {
+            "grade": "선반B"
+        },
+        {
+            "grade": "선반C"
+        },
+        {
+            "grade": "선반T"
+        },
+        {
+            "grade": "길로틴A"
+        },
+        {
+            "grade": "슈레디드A"
+        },
+        {
+            "grade": "슈레디드B"
+        },
+        {
+            "grade": "슈레디드C"
+        },
+        {
+            "grade": "길로틴B"
+        },
+        {
+            "grade": "길로틴C"
+        },
+        {
+            "grade": "압축B"
+        },
+        {
+            "grade": "압축A"
+        },
+        {
+            "grade": "압축D"
+        },
+        {
+            "grade": "압축 E"
+        },
+        {
+            "grade": "생압AB"
+        },
+        {
+            "grade": "구멍"
+        },
+        {
+            "grade": "주물(모터블럭)"
+        }
+    ]
+}
