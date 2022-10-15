@@ -1,0 +1,76 @@
+{
+    "code": "R001",
+    "message": "SUCCESS",
+    "items": [
+      {
+        "EMPNO": 7839,
+        "ENAME": "KING",
+        "JOB": "PRESIDENT"
+      },
+      {
+        "EMPNO": 7698,
+        "ENAME": "BLAKE",
+        "JOB": "MANAGER"
+      },
+      {
+        "EMPNO": 7782,
+        "ENAME": "CLARK",
+        "JOB": "MANAGER"
+      },
+      {
+        "EMPNO": 7566,
+        "ENAME": "JONES",
+        "JOB": "MANAGER"
+      },
+      {
+        "EMPNO": 7788,
+        "ENAME": "SCOTT",
+        "JOB": "ANALYST"
+      },
+      {
+        "EMPNO": 7902,
+        "ENAME": "FORD",
+        "JOB": "ANALYST"
+      },
+      {
+        "EMPNO": 7369,
+        "ENAME": "SMITH",
+        "JOB": "CLERK"
+      },
+      {
+        "EMPNO": 7499,
+        "ENAME": "ALLEN",
+        "JOB": "SALESMAN"
+      },
+      {
+        "EMPNO": 7521,
+        "ENAME": "WARD",
+        "JOB": "SALESMAN"
+      },
+      {
+        "EMPNO": 7654,
+        "ENAME": "MARTIN",
+        "JOB": "SALESMAN"
+      },
+      {
+        "EMPNO": 7844,
+        "ENAME": "TURNER",
+        "JOB": "SALESMAN"
+      },
+      {
+        "EMPNO": 7876,
+        "ENAME": "ADAMS",
+        "JOB": "CLERK"
+      },
+      {
+        "EMPNO": 7900,
+        "ENAME": "JAMES",
+        "JOB": "CLERK"
+      },
+      {
+        "EMPNO": 7934,
+        "ENAME": "MILLER",
+        "JOB": "CLERK"
+      }
+    ]
+  }
